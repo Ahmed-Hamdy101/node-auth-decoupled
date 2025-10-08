@@ -4,6 +4,8 @@ This Project is a full-stack ( **SERVER** / **CLIENT** ) FOR Decouple-ARCH   for
 
 ---
 
+- [Client]('./client')
+- [Server]('./server')
 ## Getting Started
 
 ### 1. Clone the repository
@@ -77,4 +79,5 @@ src/
 - `GET    /api/profile/`        — Get user profile (protected)
 
 - `PUT    /api/profile/edit
+
 
