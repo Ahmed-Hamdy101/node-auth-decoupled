@@ -1,4 +1,4 @@
-# NodeAuth Server
+# NodeAuth  DEC _ ARCH
 
 This is the **server** for the NodeAuth project. It provides authentication, user profile management, and secure API endpoints using Node.js, Express, MongoDB, and JWT.
 
@@ -75,4 +75,5 @@ src/
 - `POST   /api/auth/register`   — User registration
 - `GET    /api/auth/logout`     — User logout (protected)
 - `GET    /api/profile/`        — Get user profile (protected)
+
 - `PUT    /api/profile/edit
