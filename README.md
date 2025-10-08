@@ -1,6 +1,6 @@
 # NodeAuth  DEC _ ARCH
 
-This is the **server** for the NodeAuth project. It provides authentication, user profile management, and secure API endpoints using Node.js, Express, MongoDB, and JWT.
+This Project is a full-stack ( **SERVER** / **CLIENT** ) FOR Decouple-ARCH   for the NodeAuth project. It provides authentication, user profile management, and secure API endpoints using Node.js, Express, MongoDB, and JWT.
 
 ---
 
@@ -77,3 +77,4 @@ src/
 - `GET    /api/profile/`        — Get user profile (protected)
 
 - `PUT    /api/profile/edit
+
